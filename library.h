@@ -1,0 +1,6 @@
+#ifndef WHEEL_FACTORY_LIBRARY_H
+#define WHEEL_FACTORY_LIBRARY_H
+
+void hello(void);
+
+#endif //WHEEL_FACTORY_LIBRARY_H
